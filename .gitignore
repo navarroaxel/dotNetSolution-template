@@ -1,0 +1,8 @@
+_ReSharper.*/
+packages/
+PublishProfiles/
+bin/
+obj/
+TestResults/
+*.suo
+*.user
